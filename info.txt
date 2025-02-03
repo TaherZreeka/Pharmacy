@@ -1,0 +1,89 @@
+1-Registration
+-Name
+-Email
+-Password
+2-Login
+-Email
+-Password
+3-Forget Password
+-Email
+4-Dashboard
+-Total Customer
+-Total Supplier
+-Total Medicine
+-Out Of Stock
+-Expired
+-Total Invoice
+
+5-Invoice
+-id
+-invoice_no
+-Customer_Name
+-Date
+-Total Amount
+-Total Discount
+-Net Total
+
+6-Customer
+-Customer id
+-Customer Name
+-Customer Number
+-Address
+-Doctor Name
+-Doctor Address
+
+7-Medicines
+-SL.No
+-Medicines Name
+-Packing
+-Gemeric Name
+-Supplier
+
+
+8-Medicines Stock
+-SL.No
+-Medicines Name
+-Packingf
+-Gemeric Name
+-Batch Id
+-Ex Date
+-Supplier
+-Qty
+-M.R.P
+-Rate
+
+9-Supplier
+-SL.No
+-Name
+-Email
+-Contact Number
+-Address
+
+10-Purchase
+-SL.No
+-Voucher Number
+-Supplier Name
+-Invoice Number
+-Purchase Date
+-Total Amount
+-Payment Status
+
+
+11-Sales Report
+-SL.No
+-Sales Date
+-Invoice Number
+-Customer Name
+-Total Amount
+
+12-Purchase Report
+-SL.No
+-Voucher Number
+-Supplier Name
+-Invoice No
+-Purchase Date
+-Total Amount
+
+13-Logout
+-Admin
+
